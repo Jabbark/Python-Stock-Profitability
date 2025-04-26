@@ -1,4 +1,3 @@
-# Python-Stock-Profitability
 
 # 📈 Stock Profitability Checker
 
